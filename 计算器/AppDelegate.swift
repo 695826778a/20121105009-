@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  计算器
 //
-//  Created by admin on 15/6/2.
-//  Copyright (c) 2015年 admin. All rights reserved.
+//  Created by admin on 16/5/9.
+//  Copyright (c) 2016年 admin. All rights reserved.
 //
 
 import UIKit
